@@ -16,5 +16,3 @@ Web-App-Zakat dirancang dengan antarmuka yang ramah pengguna dan fungsionalitas 
 Anggota Kelompok:
   - Ryu Kevin Benardi (2222015196
   - Widelia Andani Zekia Daroja (2222105218)
-  - Erik Setiawan
-  - Siska
