@@ -137,6 +137,7 @@ mysqli_close($conn);
         <p style="line-height: 2;">Ryu Kevin Benardi (2222015196)<br>
             Widelia Andani Zekia Daroja (2222105218)<br>
             Sisca Cahyani (2222105250)<br>
+            Arif Rahman (2222105006)<br>
             Pemrograman Berorientasi Objek<br>
             Kelas 2Ti04, Teknik Informatika</p>
     </footer>
