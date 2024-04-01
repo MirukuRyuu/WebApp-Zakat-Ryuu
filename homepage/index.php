@@ -133,7 +133,7 @@ mysqli_close($conn);
     </div>
 
     <footer style="width: 100%; padding: 20px 0; font-size: 20px; color: black; font-weight: 400; background-color: rgba(0,0,0,0.05);">
-        <h1> Made By Ryu Kevin </h1>
+        <h1> Made By Us </h1>
         <p style="line-height: 2;">Ryu Kevin Benardi (2222015196)<br>
             Widelia Andani Zekia Daroja (2222105218)<br>
             Sisca Cahyani (2222105250)<br>
