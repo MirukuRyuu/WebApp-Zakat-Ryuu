@@ -6,6 +6,7 @@ Anggota Kelompok:
   - Widelia Andani Zekia Daroja (2222105218)
   - Sisca Cahyani (2222105250)
   - Arif Rahman (2222105006)
+
 Kelas 2Ti04, Jurusan Teknik Informatika, Fakultas Teknik
 UNIVERSITAS CENDEKIA ABDITAMA
 
