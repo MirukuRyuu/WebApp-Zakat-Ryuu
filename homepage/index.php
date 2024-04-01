@@ -119,8 +119,8 @@ mysqli_close($conn);
             <div class="isi">
                 <h1>Tentang Laman Ini</h1>
 
-                <p>Nama saya Ryu, ini adalah halaman yang saya buat untuk
-                    tugas kelompok pada matkul Pemrograman Berorientasi Objek
+                <p>Ini adalah halaman yang kami buat untuktugas kelompok 
+                    pada matkul Pemrograman Berorientasi Objek
                     (OOP). Dalam rangka Ujian Tengah Semester, Dosen saya 
                     bernama Pak Pungky menyuruh masing-masing siswa membuat kelompok
                     dan membangun Aplikasi berbasis Website tentang penerimaan/pembayaran
